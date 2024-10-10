@@ -14,5 +14,6 @@ export class SmallCardComponent {
   cardTitle:string = "";
   @Input()
   cardTitleLink:string = "";
-
+  @Input()
+  cardDescription:string = "";
 }
