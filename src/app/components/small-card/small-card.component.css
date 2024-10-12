@@ -8,10 +8,11 @@
     flex-direction: row;
 }
 
-.small-card__photo > img{
-    width: 250px;
+.small-card__photo > a > img{
+    width: 300px;
     min-width: 200px;
     margin-right: 20px;
+    cursor: pointer;
 }
 
 .small-card__title{
