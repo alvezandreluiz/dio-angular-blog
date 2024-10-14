@@ -25,6 +25,8 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Ghpages
 
+Install `npm add angular-cli-ghpages` to add it to your project.
+
 Run `npm run ghpages` to publish the project on GitHub Pages.
 
 ## Deploy
